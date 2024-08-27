@@ -1,6 +1,6 @@
 # BIDCell to Seurat
 
-This repository contains an enabler script to convert a BIDcell object to a Seurat object for the processing of 10X Genomics _Xenium_ spatial transcriptomics data.
+This repository contains an enabler script to convert the BIDcell segmentation output to a Seurat object for the processing of 10X Genomics _Xenium_ spatial transcriptomics data.
 
 You can find detailed information on BIDcell at the following citation
 > Fu, X., Lin, Y., Lin, D., Mechtersheimer, D., Wang, C., Ameen, F., Ghazanfar, S., Patrick, E., Kim, J., & Yang, J. Y. H. BIDCell: Biologically-informed self-supervised learning for segmentation of subcellular spatial transcriptomics data. Nat Commun 15, 509 (2024). https://doi.org/10.1038/s41467-023-44560-w
