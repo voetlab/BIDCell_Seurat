@@ -35,3 +35,6 @@ source("path/to/BIDcell_to_Seurat.R")
 
 Made by [Markus Boesch](markus.boesch@kuleuven.be) and [Francisco Pestana](francisco.pestana@kuleuven.be)
 
+# Citation
+10.5281/zenodo.13619779
+
